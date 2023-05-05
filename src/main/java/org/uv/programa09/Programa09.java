@@ -12,6 +12,6 @@ package org.uv.programa09;
 public class Programa09 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Programa09");
     }
 }
